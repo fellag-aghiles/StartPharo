@@ -2,7 +2,7 @@
 
  # Exercices Techniques Pharo
 
-Ce dépôt contient les solutions aux exercices techniques de développement et d'ingénierie logicielle. Le projet est divisé en deux modules principaux démontrant l'utilisation de la programmation orientée objet et de la réflexion dans l'environnement Pharo.
+Ce dépôt contient les solutions aux exercices techniques avec Pharo . Le projet est divisé en deux modules principaux démontrant l'utilisation de la programmation orientée objet et de la réflexion dans l'environnement Pharo.
 
 ## Contenu du Projet
 
@@ -66,5 +66,6 @@ liste size. "Retourne 2"
 JavaDocGenerator new for: Array.
 ```
 Un fichier nommé Array.html sera généré automatiquement dans le répertoire racine de votre image Pharo. Vous pouvez l'ouvrir avec n'importe quel navigateur web pour visualiser la documentation formatée
+
 
 
